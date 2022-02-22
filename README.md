@@ -5,7 +5,7 @@
 <hr>
 <br>
 
-<h3>Sobre o Watchme</h3>
+> Sobre o Watchme
 
 <p>
 O Watchme é um projeto visando uma plataforma de acesso e exibição de filmes
@@ -14,7 +14,9 @@ que pertencem ao gênero escolhido.
 </p>
 
 <br>
-<h3>Tecnologias Ultilizadas</h3>
+
+> Tecnologias Ultilizadas
+
 <p>
 <ul>
   <li>React</li>
